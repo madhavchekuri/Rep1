@@ -1,0 +1,12 @@
+h1{
+	background-color:yellow;
+	padding:10px 40px;
+	/*
+	border-style:dotted; /*dotted, dashed, solid, double, groove, ridge, inset, outset.
+	border-width:5px;
+	border-color:blue;
+	*/
+	border:8px ridge blue;
+	border-top:4px solid green;
+	border-bottom: 8px groove orange;
+}
